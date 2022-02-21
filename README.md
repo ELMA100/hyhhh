@@ -1,4 +1,6 @@
-<head>
+<!DOCTYPE html>
+<html>
+ <head>
   <title>
   </title>
   <meta content="summary_large_image" name="twitter:card">
